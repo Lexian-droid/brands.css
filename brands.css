@@ -108,12 +108,14 @@
     color: #FFFFFF !important;
     background-color: #FF4500 !important;
 }
-
+.w3-brand-rss, .w3-brand-hover-rss:hover {
+    color: #FFFFFF !important;
+    background-color: #f26522 !important;
+}
 .w3-brand-facebook, .w3-brand-hover-facebook:hover {
     color: #FFFFFF !important;
     background-color: #4267B2 !important;
 }
-
 .w3-brand-twitter, .w3-brand-hover-twitter:hover {
     color: #FFFFFF !important;
     background-color: #1DA1F2 !important;
