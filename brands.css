@@ -124,3 +124,15 @@
     color: #FFFFFF !important;
     background-color: #00457C !important;
 }
+.w3-brand-venmo, .w3-brand-hover-venmo:hover {
+    color: #FFFFFF !important;
+    background-color: #008CFF !important;
+}
+.w3-brand-payoneer, .w3-brand-hover-payoneer:hover {
+    color: #FFFFFF !important;
+    background-color: #ff4600 !important;
+}
+.w3-brand-fiverr, .w3-brand-hover-fiverr:hover {
+    color: #FFFFFF !important;
+    background-color: #00b22d !important;
+}
