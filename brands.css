@@ -1,6 +1,6 @@
 /* Social Media brand Colors */
 /* Theme for W3.CSS */
-/* By TimeWisely */
+/* By LexianDEV */
 /* GITHUB: https://github.com/Lexian-droid/brands.css */
 /* MIT License */
 
@@ -119,4 +119,8 @@
 .w3-brand-twitter, .w3-brand-hover-twitter:hover {
     color: #FFFFFF !important;
     background-color: #1DA1F2 !important;
+}
+.w3-brand-paypal, .w3-brand-hover-paypal:hover {
+    color: #FFFFFF !important;
+    background-color: #00457C !important;
 }
