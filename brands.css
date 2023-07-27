@@ -136,3 +136,11 @@
     color: #FFFFFF !important;
     background-color: #00b22d !important;
 }
+.w3-brand-buymeacoffee, .w3-brand-hover-buymeacoffee:hover {
+    color: #000000 !important;
+    background-color: #ffe600 !important;
+}
+.w3-brand-patreon, .w3-brand-hover-patreon:hover {
+    color: #FFFFFF !important;
+    background-color: #FF424D !important;
+}
