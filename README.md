@@ -28,15 +28,13 @@ In order to create a custom brand, simply follow these steps.
 3. Add a new line, and enter the following: ``.w3-brand-brandName, .w3-brand-hover-brandName:hover{}`` and replace **brandName** with your desired brand.
 4. in the ``{}`` simply add a Newline.
 ```css
-.w3-brand-brandName, .w3-brand-hover-brandName:hover
-{
+.w3-brand-brandName, .w3-brand-hover-brandName:hover {
 
 }
 ```
 6. Now, add the next two lines: (***Please read the comments***)
 ```css
-.w3-brand-brandName, .w3-brand-hover-brandName:hover
-{
+.w3-brand-brandName, .w3-brand-hover-brandName:hover {
   color: #HEX !important; /* Replace #HEX with your desired brand text color */
   background-color: #BGHEX !important; /* Replace #BGHEX with your desired brand background color */
 }
