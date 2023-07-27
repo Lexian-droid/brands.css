@@ -27,10 +27,19 @@ In order to create a custom brand, simply follow these steps.
 2. Open "additional-brands.css" in your preferred code editing software
 3. Add a new line, and enter the following: ``.w3-brand-brandName, .w3-brand-hover-brandName:hover{}`` and replace **brandName** with your desired brand.
 4. in the ``{}`` simply add a Newline.
-5. Now, add the next two lines: (***Please read the comments***)
 ```css
+.w3-brand-brandName, .w3-brand-hover-brandName:hover
+{
+
+}
+```
+6. Now, add the next two lines: (***Please read the comments***)
+```css
+.w3-brand-brandName, .w3-brand-hover-brandName:hover
+{
   color: #HEX !important; /* Replace #HEX with your desired brand text color */
   background-color: #BGHEX !important; /* Replace #BGHEX with your desired brand background color */
+}
 ```
 6. Now that you have styled your class, your code should look something like this:
 ```css
@@ -43,11 +52,9 @@ Now, all you have to do is add the newly created class to your element, you can 
 to your HTML and adding a class called ``w3-brand-brandName`` of course, replacing **brandName** with your newly created brand.
 
 # Contribute
-We accept contributions from all over the world - If you want to contribute to BRANDS.CSS, by adding more brands, optimizing or changing existing brands, you are more then welcomed to do so!
-You are free to fork this repository, and create your own edits, and send a push request back. Your changes will be reviewed by staff, and then your changes will be applied for everyone.
+We accept contributions from all over the world - If you want to contribute to BRANDS.CSS, by adding more brands, optimizing or changing existing brands, you are more then welcomed to do so! You are free to edit the repository and make as many pull requests as you see fit.
 
-In addition, you can create your own version of BRANDS.CSS! and you're completely free to do so, please however, remember to follow
-the open source license, because your own forks can help us all improve. :)
+In addition, by forking brands.css, you can create your own version! and you're completely free to do so, please however, remember to follow the open source license, because your own forks can help us all improve. :)
 
 # Thank You!
 Thank you for checking out BRANDS.CSS, we hope you enjoy our project.
