@@ -10,7 +10,7 @@ It comes with many already existing brands, with the data continuously expanding
 # How to get started
 In order to get started using BRANDS.CSS all you have to do is link the <a href="">CSS File</a> in your ``<head>`` element.
 
-Here is an example: ``<link rel="stylesheet" href="https://raw.githubusercontent.com/Lexian-droid/brands.css/master/brands.css">`` Now you've got BRANDS.CSS installed.
+Here is an example: ``<link rel="stylesheet" href="https://brands-css-cdn.pages.dev/brands.css">`` Now you've got BRANDS.CSS installed.
 
 Now, how do you use it? That's simple too.
 
