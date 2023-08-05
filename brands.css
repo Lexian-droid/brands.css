@@ -4,25 +4,22 @@
 /* GITHUB: https://github.com/Lexian-droid/brands.css */
 /* MIT License */
 
-.w3-brand-google, .w3-brand-hover-google:hover {
+/* Social Media */
+.w3-brand-facebook, .w3-brand-hover-facebook:hover {
     color: #FFFFFF !important;
-    background-color: #F4B400 !important;
+    background-color: #4267B2 !important;
 }
-.w3-brand-email, .w3-brand-hover-email:hover {
+.w3-brand-dribbble, .w3-brand-hover-dribbble:hover {
     color: #FFFFFF !important;
-    background-color: #000000 !important;
+    background-color: #EA4C89 !important;
 }
-.w3-brand-github, .w3-brand-hover-github:hover {
-    color: #fafafa !important;
-    background-color: #333333 !important;
-}
-.w3-brand-yahoo, .w3-brand-hover-yahoo:hover {
+.w3-brand-twitter, .w3-brand-hover-twitter:hover {
     color: #FFFFFF !important;
-    background-color: #400191 !important;
+    background-color: #1DA1F2 !important;
 }
-.w3-brand-soundcloud, .w3-brand-hover-soundcloud:hover {
+.w3-brand-instagram, .w3-brand-hover-instagram:hover {
     color: #FFFFFF !important;
-    background-color: #FF3300 !important;
+    background-color: #E4405F !important;
 }
 .w3-brand-pinterest, .w3-brand-hover-pinterest:hover {
     color: #FFFFFF !important;
@@ -36,74 +33,6 @@
     color: #FFFFFF !important;
     background-color: #35465C !important;
 }
-.w3-brand-vimeo, .w3-brand-hover-vimeo:hover {
-    color: #FFFFFF !important;
-    background-color: #1AB7EA !important;
-}
-.w3-brand-slack, .w3-brand-hover-slack:hover {
-    color: #FFFFFF !important;
-    background-color: #6ECADC !important;
-}
-.w3-brand-flickr, .w3-brand-hover-flickr:hover {
-    color: #FFFFFF !important;
-    background-color: #FF0084 !important;
-}
-.w3-brand-foursquare, .w3-brand-hover-foursquare:hover {
-    color: #FFFFFF !important;
-    background-color: #0072B1 !important;
-}
-.w3-brand-dribbble, .w3-brand-hover-dribbble:hover {
-    color: #FFFFFF !important;
-    background-color: #EA4C89 !important;
-}
-.w3-brand-skype, .w3-brand-hover-skype:hover {
-    color: #FFFFFF !important;
-    background-color: #00AFF0 !important;
-}
-.w3-brand-android, .w3-brand-hover-android:hover {
-    color: #FFFFFF !important;
-    background-color: #A4C639 !important;
-}
-.w3-brand-windows, .w3-brand-hover-windows:hover {
-    color: #FFFFFF !important;
-    background-color: #00BCF2 !important;
-}
-.w3-brand-apple, .w3-brand-hover-apple:hover {
-    color: #FFFFFF !important;
-    background-color: #999999 !important;
-}
-.w3-brand-youtube, .w3-brand-hover-youtube:hover {
-    color: #FFFFFF !important;
-    background-color: #CD201F !important;
-}
-.w3-brand-blogger, .w3-brand-hover-blogger:hover {
-    color: #FFFFFF !important;
-    background-color: #F57D00 !important;
-}
-.w3-brand-steam, .w3-brand-hover-steam:hover {
-    color: #FFFFFF !important;
-    background-color: #000000 !important;
-}
-.w3-brand-vk, .w3-brand-hover-vk:hover {
-    color: #FFFFFF !important;
-    background-color: #45668E !important;
-}
-.w3-brand-instagram, .w3-brand-hover-instagram:hover {
-    color: #FFFFFF !important;
-    background-color: #E4405F !important;
-}
-.w3-brand-spotify, .w3-brand-hover-spotify:hover {
-    color: #FFFFFF !important;
-    background-color: #1DB954 !important;
-}
-.w3-brand-xbox, .w3-brand-hover-xbox:hover {
-    color: #FFFFFF !important;
-    background-color: #107C10 !important;
-}
-.w3-brand-snapchat, .w3-brand-hover-snapchat:hover {
-    color: #FFFFFF !important;
-    background-color: #FFFC00 !important;
-}
 .w3-brand-reddit, .w3-brand-hover-reddit:hover {
     color: #FFFFFF !important;
     background-color: #FF4500 !important;
@@ -112,14 +41,120 @@
     color: #FFFFFF !important;
     background-color: #f26522 !important;
 }
-.w3-brand-facebook, .w3-brand-hover-facebook:hover {
+.w3-brand-snapchat, .w3-brand-hover-snapchat:hover {
     color: #FFFFFF !important;
-    background-color: #4267B2 !important;
+    background-color: #FFFC00 !important;
 }
-.w3-brand-twitter, .w3-brand-hover-twitter:hover {
+
+/* Search engines */
+.w3-brand-google, .w3-brand-hover-google:hover {
     color: #FFFFFF !important;
-    background-color: #1DA1F2 !important;
+    background-color: #F4B400 !important;
 }
+.w3-brand-bing, .w3-brand-hover-bing:hover {
+    color: #FFFFFF !important;
+    background-color: #008373 !important;
+}
+.w3-brand-yahoo, .w3-brand-hover-yahoo:hover {
+    color: #FFFFFF !important;
+    background-color: #400191 !important;
+}
+.w3-brand-duckduckgo, .w3-brand-hover-duckduckgo:hover {
+    color: #FFFFFF !important;
+    background-color: #DE5833 !important;
+}
+
+/* Video Sharing */
+.w3-brand-youtube, .w3-brand-hover-youtube:hover {
+    color: #FFFFFF !important;
+    background-color: #CD201F !important;
+}
+.w3-brand-twitch, .w3-brand-hover-twitch:hover {
+    color: #FFFFFF !important;
+    background-color: #6441A5 !important;
+}
+.w3-brand-vimeo, .w3-brand-hover-vimeo:hover {
+    color: #FFFFFF !important;
+    background-color: #1AB7EA !important;
+}
+.w3-brand-dailymotion, .w3-brand-hover-dailymotion:hover {
+    color: #FFFFFF !important;
+    background-color: #0066DC !important;
+}
+.w3-brand-tiktok, .w3-brand-hover-tiktok:hover {
+    color: #000000 !important;
+    background-color: #ff0050 !important;
+}
+
+/* Technology */
+.w3-brand-github, .w3-brand-hover-github:hover {
+    color: #fafafa !important;
+    background-color: #333333 !important;
+}
+.w3-brand-gitea, .w3-brand-hover-gitea:hover {
+    color: #FFFFFF !important;
+    background-color: #609926 !important;
+}
+
+/* Stock Photos */
+.w3-brand-flickr, .w3-brand-hover-flickr:hover {
+    color: #FFFFFF !important;
+    background-color: #FF0084 !important;
+}
+.w3-brand-unsplash, .w3-brand-hover-unsplash:hover {
+    color: #FFFFFF !important;
+    background-color: #000000 !important;
+}
+.w3-brand-pexels, .w3-brand-hover-pexels:hover {
+    color: #FFFFFF !important;
+    background-color: #05A081 !important;
+}
+.w3-brand-shutterstock, .w3-brand-hover-shutterstock:hover {
+    color: #FFFFFF !important;
+    background-color: #EE2B24 !important;
+}
+.w3-brand-istockphoto, .w3-brand-hover-istockphoto:hover {
+    color: #FFFFFF !important;
+    background-color: #000000 !important;
+}
+.w3-brand-gettyimages, .w3-brand-hover-gettyimages:hover {
+    color: #FFFFFF !important;
+    background-color: #000000 !important;
+}
+
+/* Operating Systems */
+.w3-brand-windows, .w3-brand-hover-windows:hover {
+    color: #FFFFFF !important;
+    background-color: #00BCF2 !important;
+}
+.w3-brand-macintosh, .w3-brand-hover-macintosh:hover {
+    color: #FFFFFF !important;
+    background-color: #000000 !important;
+}
+.w3-brand-linux, .w3-brand-hover-linux:hover {
+    color: #FFFFFF !important;
+    background-color: #FCC624 !important;
+}
+.w3-brand-android, .w3-brand-hover-android:hover {
+    color: #FFFFFF !important;
+    background-color: #A4C639 !important;
+}
+.w3-brand-ios, .w3-brand-hover-ios:hover {
+    color: #FFFFFF !important;
+    background-color: #000000 !important;
+}
+
+/* Gaming */
+.w3-brand-xbox, .w3-brand-hover-xbox:hover {
+    color: #FFFFFF !important;
+    background-color: #107C10 !important;
+}
+.w3-brand-steam, .w3-brand-hover-steam:hover {
+    color: #FFFFFF !important;
+    background-color: #000000 !important;
+}
+
+/* Payment Services */
 .w3-brand-paypal, .w3-brand-hover-paypal:hover {
     color: #FFFFFF !important;
     background-color: #00457C !important;
@@ -132,10 +167,70 @@
     color: #FFFFFF !important;
     background-color: #ff4600 !important;
 }
-.w3-brand-fiverr, .w3-brand-hover-fiverr:hover {
+
+/* Music Services */
+.w3-brand-spotify, .w3-brand-hover-spotify:hover {
     color: #FFFFFF !important;
-    background-color: #00b22d !important;
+    background-color: #1DB954 !important;
 }
+.w3-brand-applemusic, .w3-brand-hover-applemusic:hover {
+    color: #FFFFFF !important;
+    background-color: #000000 !important;
+}
+.w3-brand-soundcloud, .w3-brand-hover-soundcloud:hover {
+    color: #FFFFFF !important;
+    background-color: #FF3300 !important;
+}
+.w3-brand-bandcamp, .w3-brand-hover-bandcamp:hover {
+    color: #FFFFFF !important;
+    background-color: #408294 !important;
+}
+.w3-brand-amazonmusic, .w3-brand-hover-amazonmusic:hover {
+    color: #FFFFFF !important;
+    background-color: #FF9900 !important;
+}
+.w3-brand-amazonmusic, .w3-brand-hover-amazon:hover {
+    color: #FFFFFF !important;
+    background-color: #FF9900 !important;
+}
+.w3-brand-itunes, .w3-brand-hover-itunes:hover {
+    color: #FFFFFF !important;
+    background-color: #000000 !important;
+}
+.w3-brand-googleplaymusic, .w3-brand-hover-googleplay:hover {
+    color: #FFFFFF !important;
+    background-color: #00BCF2 !important;
+}
+.w3-brand-youtubemusic, .w3-brand-hover-youtubemusic:hover {
+    color: #FFFFFF !important;
+    background-color: #FF0000 !important;
+}
+.w3-brand-deezer, .w3-brand-hover-deezer:hover {
+    color: #FFFFFF !important;
+    background-color: #00C7F2 !important;
+}
+.w3-brand-tidal, .w3-brand-hover-tidal:hover {
+    color: #FFFFFF !important;
+    background-color: #000000 !important;
+}
+.w3-brand-napster, .w3-brand-hover-napster:hover {
+    color: #FFFFFF !important;
+    background-color: #000000 !important;
+} /* haha piracy go brrr */
+.w3-brand-pandora, .w3-brand-hover-pandora:hover {
+    color: #FFFFFF !important;
+    background-color: #005483 !important;
+}
+.w3-brand-iheartradio, .w3-brand-hover-iheartradio:hover {
+    color: #FFFFFF !important;
+    background-color: #C6002B !important;
+}
+.w3-brand-siriusxm, .w3-brand-hover-siriusxm:hover {
+    color: #FFFFFF !important;
+    background-color: #00B0F0 !important;
+}
+
+/* Crowdfunding */
 .w3-brand-buymeacoffee, .w3-brand-hover-buymeacoffee:hover {
     color: #000000 !important;
     background-color: #ffe600 !important;
@@ -143,4 +238,31 @@
 .w3-brand-patreon, .w3-brand-hover-patreon:hover {
     color: #FFFFFF !important;
     background-color: #FF424D !important;
+}
+.w3-brand-ko-fi, .w3-brand-hover-ko-fi:hover {
+    color: #FFFFFF !important;
+    background-color: #FF5E5B !important;
+}
+.w3-brand-liberapay, .w3-brand-hover-liberapay:hover {
+    color: #FFFFFF !important;
+    background-color: #F6C915 !important;
+}
+.w3-brand-opencollective, .w3-brand-hover-opencollective:hover {
+    color: #FFFFFF !important;
+    background-color: #7FADF2 !important;
+}
+
+/* Other */
+.w3-brand-email, .w3-brand-hover-email:hover {
+    color: #FFFFFF !important;
+    background-color: #000000 !important;
+}
+
+.w3-brand-foursquare, .w3-brand-hover-foursquare:hover {
+    color: #FFFFFF !important;
+    background-color: #0072B1 !important;
+}
+.w3-brand-slack, .w3-brand-hover-slack:hover {
+    color: #FFFFFF !important;
+    background-color: #6ECADC !important;
 }
