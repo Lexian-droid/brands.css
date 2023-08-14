@@ -8,7 +8,7 @@ It comes with many already existing brands, with the data continuously expanding
 - 100% open source
 
 # How to get started
-In order to get started using BRANDS.CSS all you have to do is link the <a href="">CSS File</a> in your ``<head>`` element.
+In order to get started using BRANDS.CSS all you have to do is link the <a href="https://brands-css-cdn.pages.dev/brands.css">CSS File</a> in your ``<head>`` element.
 
 Here is an example:
 
