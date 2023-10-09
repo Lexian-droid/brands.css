@@ -13,7 +13,7 @@ In order to get started using BRANDS.CSS all you have to do is link the <a href=
 Here is an example:
 
 ```
-<link rel="stylesheet" href="https://brands-css-cdn.pages.dev/brands.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lexian-droid/brands.css@latest/brands.min.css">
 ```
 
 Now, how do you use it? That's simple too.
