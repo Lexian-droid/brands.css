@@ -95,6 +95,10 @@
     color: #FFFFFF !important;
     background-color: #609926 !important;
 }
+.w3-brand-discord, .w3-brand-hover-discord:hover {
+    color: #FFFFFF !important;
+    background-color: #5865F2 !important;
+}
 
 /* Stock Photos */
 .w3-brand-flickr, .w3-brand-hover-flickr:hover {
